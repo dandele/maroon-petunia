@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: OK BOOMER
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: 'Assistenza digitale, per boomer tradizionali!'
     actions:
       - label: Try for free
         url: /pricing
