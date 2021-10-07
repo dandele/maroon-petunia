@@ -5,7 +5,7 @@ sections:
     title: OK BOOMER
     subtitle: 'Assistenza digitale, per boomer tradizionali!'
     actions:
-      - label: Try for free
+      - label: SCOPRI I PIANI
         url: /pricing
         style: primary
     image: images/hero.svg
