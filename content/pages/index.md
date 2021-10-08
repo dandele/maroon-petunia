@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: RIPRENDITI IL TEMPO CON I TUOI BOOMER
+    title: '"Mi aiuti a cambiare password?"'
     subtitle: 'Assistenza digitale a distanza, il prossi'
     actions:
       - label: SCOPRI I PIANI
