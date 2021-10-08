@@ -75,9 +75,10 @@ sections:
         media_position: left
         media_width: sixty
       - title: 'Scegli un tipo di piano e clicca un pulsante, è davvero così semplice'
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: >
+          Quando il tuo boomer ti chiederà aiuto, dovrai solo cliccare un
+          pulsante ed in poco tempo il tuo boomer avrà a disposizione un
+          assistente dedicato pronto ad aiutarlo
         actions:
           - label: Learn More
             url: /thank-you
