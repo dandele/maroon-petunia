@@ -143,7 +143,7 @@ sections:
         image_align: left
         image_has_padding: true
         title: Tu e il tuo boomer riceverete un link per una call
-      - title: Your Progress
+      - title: Il boomer ed il nostro assistente risolveranno il problema
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
