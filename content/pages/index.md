@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: '"Mi aiuti a cambiare password?"'
-    subtitle: 'Assistenza digitale a distanza, il prossi'
+    subtitle: 'Lascia rispondere noi a questa domanda, te '
     actions:
       - label: SCOPRI I PIANI
         url: /pricing
