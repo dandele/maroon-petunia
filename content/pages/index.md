@@ -74,7 +74,9 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: 'Scegli un tipo di piano e quando il tuo boomer '
+      - title: >-
+          Scegli un tipo di piano e quando il tuo boomer ti chiederà aiuto tu
+          potrai 
         content: >-
           With YourGoal you will be more productive and organized. Overcome
           procrastination and achieve your goals.
