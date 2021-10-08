@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: OK BOOMER
+    title: OKa BOOMER
     subtitle: 'Assistenza digitale, per boomer tradizionali!'
     actions:
       - label: SCOPRI I PIANI
