@@ -142,6 +142,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        title: Tu e il tuo boomer riceverete un link per una call
       - title: Your Progress
         title_align: left
         content: >-
