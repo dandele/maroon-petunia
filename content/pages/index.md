@@ -18,6 +18,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     title: Hai mai aiutato un boomer a cambiare password?
+    subtitle: 'Se lo hai fatto, sai che la cosa potrebbe richiedere molto tempo: lascia '
   - type: grid_section
     title: Featured On
     align: center
