@@ -41,7 +41,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: features_section
-    title: Why Choose YourGoal?
+    title: Perché scegliere OkayBoomer?
     features:
       - title: Aiutare un boomer con un problema tecnologico è noioso
         content: >
