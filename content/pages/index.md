@@ -22,10 +22,7 @@ sections:
       che ci pensiamo noi: tu goditi davvero il tempo coi tuoi boomer
   - type: grid_section
     align: center
-    grid_items:
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-        image_align: center
+    grid_items: []
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
