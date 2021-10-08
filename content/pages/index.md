@@ -60,10 +60,9 @@ sections:
         media_position: right
         media_width: sixty
       - title: Con OkayBoomer avrai più tempo da spendere coi tuoi boomer
-        content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
+        content: >
+          Se i tuoi boomer avranno bisogno di aiuto con qualche problema
+          tecnologico, ci penseranno i nostri assistenti a distanza
         actions:
           - label: Learn More
             url: /thank-you
