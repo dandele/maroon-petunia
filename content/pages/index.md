@@ -21,7 +21,6 @@ sections:
       Se lo hai fatto, sai che la cosa potrebbe richiedere molto tempo, lascia
       che ci pensiamo noi: tu goditi davvero il tempo coi tuoi boomer
   - type: grid_section
-    title: Featured On
     align: center
     grid_items:
       - image: images/logo-1.svg
