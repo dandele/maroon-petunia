@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: 'Lascia rispondere noi a questa domanda, te '
     actions:
       - label: SCOPRI I PIANI
         url: /pricing
