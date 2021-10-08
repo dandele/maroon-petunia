@@ -43,7 +43,7 @@ sections:
   - type: features_section
     title: Why Choose YourGoal?
     features:
-      - title: All the Activity Data You Need to Improve Yourself
+      - title: Aiutare un boomer con un problema tecnologico è noioso
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
