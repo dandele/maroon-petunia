@@ -80,7 +80,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     background_color: none
   - type: features_section
