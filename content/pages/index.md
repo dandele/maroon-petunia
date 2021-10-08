@@ -120,7 +120,9 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: What not to do
+      - title: >-
+          Quando ti arriva una richiesta di aiuto, apri l'app e clicca un
+          pulsante
         title_align: left
         content: >-
           Quit bad habits. Track any bad actions with YourGoal that sabotage
