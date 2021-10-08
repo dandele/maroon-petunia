@@ -44,9 +44,10 @@ sections:
     title: Why Choose YourGoal?
     features:
       - title: Aiutare un boomer con un problema tecnologico è noioso
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          Quanto tempo hai speso facendo recuperare la password di Facebook ai
+          tuoi genitori? Non avresti preferito spendere quel tempo in altro
+          modo?
         actions:
           - label: Learn More
             url: /thank-you
