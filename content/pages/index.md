@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Non sprecare tempo '
+    title: Non sprecare tempo cambiando password
     subtitle: 'Lascia rispondere noi a questa domanda, te '
     actions:
       - label: SCOPRI I PIANI
