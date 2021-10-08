@@ -96,7 +96,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: grid_section
-    title: How it works
+    title: Come funziona?
     grid_items:
       - title: Scegli un piano
         title_align: left
