@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: RIPRENDITI IL TEMPO CON I TUOI BOOMER
-    subtitle: 'Assistenza digitale, per boomer tradizionali!'
+    subtitle: 'Affida ad altri la '
     actions:
       - label: SCOPRI I PIANI
         url: /pricing
