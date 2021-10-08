@@ -155,7 +155,7 @@ sections:
     title: What's New
     blog_feed_cols: three
     enable_cards: true
-    show_recent: false
+    show_recent: true
     recent_count: 0
     show_image: true
     show_date: true
