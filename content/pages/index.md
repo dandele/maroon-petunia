@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: RIPRENDITI IL TEMPO CON I TUOI BOOMER
-    subtitle: 'Affida ad altri la '
+    subtitle: Quando hanno problemi tecnologici
     actions:
       - label: SCOPRI I PIANI
         url: /pricing
