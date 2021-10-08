@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: OKAY BOOMER
+    title: RIPRENDITI IL TEMPO CON I TUOI BOOMER
     subtitle: 'Assistenza digitale, per boomer tradizionali!'
     actions:
       - label: SCOPRI I PIANI
