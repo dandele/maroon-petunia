@@ -20,7 +20,7 @@ sections:
     title: Hai mai aiutato un boomer con la tecnologia?
     subtitle: >-
       Se lo hai fatto, sai che la cosa potrebbe richiedere molto tempo, lascia
-      che ci pensiamo noi: tu goditi il tempo 
+      che ci pensiamo noi: tu goditi il tempo coi tuoi boomer
   - type: grid_section
     title: Featured On
     align: center
