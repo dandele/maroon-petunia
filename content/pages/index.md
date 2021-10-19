@@ -5,7 +5,7 @@ sections:
     actions:
       - label: ISCRIVITI ALLA LISTA D'ATTESA
         url: '#'
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
