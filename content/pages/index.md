@@ -284,17 +284,12 @@ sections:
     title: ISCRIVITI ALLA LISTA D' ATTESA
     subtitle: lorem-ipsum
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Inserisci il tuo indirizzo email qui sotto e ti avvertiremo non appena
+      rilasceremo OkayBoomer!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Riceverai anche un regalo: una **call gratuita**.
     content_align: left
     form_position: bottom
     form_width: fifty
