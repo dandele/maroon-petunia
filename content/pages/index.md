@@ -6,7 +6,7 @@ sections:
       - label: SCOPRI I PIANI
         url: /pricing
         style: secondary
-      - label: lorem-ipsum
+      - label: 'PRENOTA '
         url: '#'
         style: link
         has_icon: false
