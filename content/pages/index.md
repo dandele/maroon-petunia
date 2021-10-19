@@ -280,8 +280,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - section_id: lorem-ipsum
-    title: ISCRIVITI ALLA LISTA D' ATTESA
+  - title: ISCRIVITI ALLA LISTA D' ATTESA
     subtitle: lorem-ipsum
     title_align: left
     content: >
