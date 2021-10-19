@@ -45,7 +45,7 @@ sections:
     background_color: none
     actions: []
   - type: features_section
-    title: PERCH scegliere OkayBoomer?
+    title: "PERCHÈ\_SCEGLIERE OKAYBOOMER?"
     features:
       - title: Aiutare un boomer con un problema tecnologico è noioso
         content: >
