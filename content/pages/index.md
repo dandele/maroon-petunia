@@ -44,8 +44,10 @@ sections:
       - title: Aiutare un boomer con un problema tecnologico è noioso
         content: >
           Quanto tempo hai speso facendo recuperare la password di Facebook ai
-          tuoi genitori? Non avresti preferito spendere quel tempo in altro
-          modo?
+          tuoi genitori? E quanto tempo a fargli installare l'antivirus? 
+
+
+          Non avresti preferito spendere quel tempo in altro modo?
         actions: []
         image: images/feature-1.png
         image_alt: Feature 1 placeholder image
