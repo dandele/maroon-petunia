@@ -38,13 +38,7 @@ sections:
           Quanto tempo hai speso facendo recuperare la password di Facebook ai
           tuoi genitori? Non avresti preferito spendere quel tempo in altro
           modo?
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
