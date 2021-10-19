@@ -97,7 +97,7 @@ sections:
     title: Come funziona?
     grid_items:
       - title: Scegli un piano
-        title_align: left
+        title_align: center
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
