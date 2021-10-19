@@ -112,7 +112,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title_align: left
+      - title_align: center
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
