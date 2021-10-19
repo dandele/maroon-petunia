@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: SCOPRI I PIANI
-        url: /pricing
-        style: secondary
       - label: ISCRIVITI ALLA LISTA D'ATTESA
         url: '#'
         style: primary
@@ -14,6 +11,9 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
+      - label: SCOPRI I PIANI
+        url: /pricing
+        style: secondary
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
