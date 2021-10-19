@@ -43,7 +43,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: Con OkayBoomer avrai più tempo da spendere coi tuoi boomer
+      - title: Con OkayBoomer avrai più tempo a tua disposizione
         content: >
           Se i tuoi boomer avranno bisogno di aiuto con qualche problema
           tecnologico, ci penseranno i nostri assistenti a distanza
