@@ -6,7 +6,7 @@ sections:
       - label: SCOPRI I PIANI
         url: /pricing
         style: secondary
-      - label: CALL GRATIS
+      - label: ISCRIVITI ALLA LISTA D'ATTESA
         url: '#'
         style: link
         has_icon: false
