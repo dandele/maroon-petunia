@@ -13,7 +13,7 @@ sections:
         no_follow: false
       - label: SCOPRI I PIANI
         url: /pricing
-        style: secondary
+        style: primary
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
