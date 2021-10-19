@@ -28,6 +28,12 @@ sections:
     subtitle: >-
       Se lo hai fatto, sai che la cosa potrebbe richiedere molto tempo, lascia
       che ci pensiamo noi: tu goditi davvero il tempo coi tuoi boomer
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/ANSAfasmUPo?controls=0" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
   - type: grid_section
     align: center
     grid_items: []
