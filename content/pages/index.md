@@ -67,13 +67,7 @@ sections:
           Quando il tuo boomer ti chiederà aiuto, dovrai solo cliccare un
           pulsante ed in poco tempo il tuo boomer avrà a disposizione un
           assistente dedicato pronto ad aiutarlo
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-3.png
         image_alt: Feature 3 placeholder image
         media_position: right
