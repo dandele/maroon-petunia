@@ -307,6 +307,7 @@ sections:
         name: Qual è il tuo indirizzo email?
         options: []
         is_required: true
+        label: 'Qual è '
     submit_label: METTIMI IN LISTA!
     align_vert: top
     padding_top: medium
