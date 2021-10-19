@@ -121,7 +121,7 @@ sections:
         image_has_padding: true
         title: Tu e il tuo boomer riceverete un link per una call
       - title: Il boomer ed il nostro assistente risolveranno il problema
-        title_align: left
+        title_align: center
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
