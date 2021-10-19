@@ -6,7 +6,7 @@ sections:
       - label: SCOPRI I PIANI
         url: /pricing
         style: secondary
-      - label: 'PRENOTA '
+      - label: PROVA UNA CALL GRATIS
         url: '#'
         style: link
         has_icon: false
