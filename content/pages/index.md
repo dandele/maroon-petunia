@@ -151,7 +151,12 @@ sections:
     background_color: none
   - type: cta_section
     title: ISCRIVITI ALLA LISTA D'ATTESA
-    content: Start achieving your goals today!
+    content: >
+      Inserisci il tuo indirizzo email qui sotto e ti avvertiremo non appena
+      rilasceremo OkayBoomer!
+
+
+      Riceverai anche un regalo: una **call gratuita**.
     actions:
       - label: Try for free
         url: /thank-you
