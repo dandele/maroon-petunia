@@ -305,7 +305,6 @@ sections:
     form_fields:
       - input_type: email
         name: Qual è il tuo indirizzo email?
-        label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
         is_required: false
