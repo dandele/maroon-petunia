@@ -47,13 +47,7 @@ sections:
         content: >
           Se i tuoi boomer avranno bisogno di aiuto con qualche problema
           tecnologico, ci penseranno i nostri assistenti a distanza
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-2.png
         image_alt: Feature 2 placeholder image
         media_position: left
