@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: ISCRIVITI ALLA LISTA D'ATTESA
+      - label: ISCRIVITI ALLA LISTA
         url: '#'
         style: secondary
         has_icon: false
