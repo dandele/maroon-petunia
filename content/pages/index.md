@@ -28,6 +28,7 @@ sections:
     subtitle: >-
       Se lo hai fatto, sai che la cosa potrebbe richiedere molto tempo, lascia
       che ci pensiamo noi: tu goditi davvero il tempo coi tuoi boomer
+    background_image_repeat: no-repeat
   - type: grid_section
     align: center
     grid_items: []
