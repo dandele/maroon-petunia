@@ -14,7 +14,7 @@ sections:
       - label: SCOPRI I PIANI
         url: /pricing
         style: primary
-    image: images/hero.svg
+    image: /images/okayboomer.gif
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
