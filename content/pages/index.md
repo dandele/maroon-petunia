@@ -19,7 +19,7 @@ sections:
     media_position: bottom
     align: center
     padding_top: large
-    padding_bottom: none
+    padding_bottom: medium
     background_color: secondary
     background_image_position: center top
     background_image_size: auto
